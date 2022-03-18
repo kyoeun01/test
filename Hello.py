@@ -1,6 +1,6 @@
 # hello. py
 Touched by user2
-test str 안녕하세요 후후후
+test str 안녕하세요 후후
 
 print("아아아")
 print("Hello everyone")
